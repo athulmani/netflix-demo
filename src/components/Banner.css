@@ -1,0 +1,15 @@
+.bannerText{
+    padding-top: 300px;
+    margin-left: 5px;
+    width: 700px;
+    color: rgb(244, 5, 5);
+}
+.bannerText h2{
+    color: black;
+}
+.h1{
+    color: red;
+}
+.h2{
+    color: blueviolet;
+}

@@ -1,0 +1,40 @@
+
+
+.row{
+    background-color: black;
+} 
+
+
+
+
+
+.img{
+    width: 250px;
+} 
+.movies-row{
+    display: flex;
+    overflow-y: scroll;
+    margin-top: 20px;
+}
+::-webkit-scrollbar{
+    display: none;
+}
+
+ .movies-row{
+
+    display: flex;
+
+ }
+.img{   
+    width: 250px;
+
+    object-fit: contain;
+    transition: transform 640ms; 
+}
+
+.img:hover{
+    transform: scale(1.06);
+}
+/* .movie-poster{
+    height: 350px;
+} */
